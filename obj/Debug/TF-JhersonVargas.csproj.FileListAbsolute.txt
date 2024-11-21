@@ -1,0 +1,45 @@
+C:\Users\maico\source\repos\TF-JhersonVargas\bin\Debug\TF-JhersonVargas.exe.config
+C:\Users\maico\source\repos\TF-JhersonVargas\bin\Debug\TF-JhersonVargas.exe
+C:\Users\maico\source\repos\TF-JhersonVargas\bin\Debug\TF-JhersonVargas.pdb
+C:\Users\maico\source\repos\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.csproj.AssemblyReference.cache
+C:\Users\maico\source\repos\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.Acceso.resources
+C:\Users\maico\source\repos\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.Properties.Resources.resources
+C:\Users\maico\source\repos\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.csproj.GenerateResource.cache
+C:\Users\maico\source\repos\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.exe
+C:\Users\maico\source\repos\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.pdb
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\TF-JhersonVargas.exe.config
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\TF-JhersonVargas.exe
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\TF-JhersonVargas.pdb
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.Shared.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\bin\Debug\stdole.dll
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.csproj.AssemblyReference.cache
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.csproj.SuggestedBindingRedirects.cache
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.Acceso.resources
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.BuscarMovimientosFecha.resources
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.CrearCuenta.resources
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.Menu.resources
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.MostrarMovimientosFecha.resources
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.Properties.Resources.resources
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.RegistrarMovimientos.resources
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.csproj.GenerateResource.cache
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.csproj.CoreCompileInputs.cache
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.csproj.CopyComplete
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.exe
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF-JhersonVargas.pdb
+E:\semestre 4\Jherson\curso-lenguaje de programacion\TRABAJO FINAL\enviar a la plataforma de blackboard\TF-JhersonVargas\obj\Debug\TF_JhersonVargas.Ventanilla.resources
